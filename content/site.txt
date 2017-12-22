@@ -1,0 +1,13 @@
+Title: Charades Schmollier
+
+----
+
+Author: Arthur Schmitt
+
+----
+
+Description: Les meilleures charades de la famille Schmollier
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)

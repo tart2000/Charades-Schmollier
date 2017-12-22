@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Blague
+
+----
+
+Charade: 
+
+- 
+  mon: "est comme le coffre d'un bateau"
+  answer: cale
+- 
+  mon: "est une ville portuaire du nord de l'Allemagne"
+  answer: Hambourg
+
+----
+
+Tout: est une forme de blague
+
+----
+
+Answer: Calembour

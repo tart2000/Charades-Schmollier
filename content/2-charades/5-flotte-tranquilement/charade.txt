@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Dans la marre
+
+----
+
+Charade: 
+
+- 
+  mon: est au milieu de la figure
+  answer: nez
+- 
+  mon: "n'est pas habillé"
+  answer: nu
+- 
+  mon: dirige les bateaux la nuit
+  answer: phare
+
+----
+
+Tout: est une fleur qui flotte sur l'eau
+
+----
+
+Answer: Nénuphar

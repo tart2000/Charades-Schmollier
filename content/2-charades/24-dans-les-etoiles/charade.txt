@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Dans les étoiles
+
+----
+
+Charade: 
+
+- 
+  mon: est la lettre avant L
+  answer: K
+- 
+  mon: sert à couper des arbres
+  answer: scie
+- 
+  mon: sont les deux lettres après N
+  answer: O-P
+
+----
+
+Tout: est une constellation
+
+----
+
+Answer: Cassiopée

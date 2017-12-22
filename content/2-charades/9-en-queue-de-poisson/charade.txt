@@ -1,0 +1,36 @@
+Prevnext: 
+
+----
+
+Title: En queue de poisson
+
+----
+
+Charade: 
+
+- 
+  mon: a des bois
+  answer: renne
+- 
+  mon: a des bois
+  answer: renne
+- 
+  mon: a des bois
+  answer: renne
+- 
+  mon: a des bois
+  answer: renne
+- 
+  mon: a des bois
+  answer: renne
+- 
+  mon: a des bois
+  answer: renne
+
+----
+
+Tout: se termine en queue de poisson
+
+----
+
+Answer: Sirène

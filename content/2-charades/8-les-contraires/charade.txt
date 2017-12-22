@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Les contraires
+
+----
+
+Charade: 
+
+- 
+  mon: "n'est pas haut"
+  answer: bas
+- 
+  mon: "n'est pas rapide"
+  answer: lent
+- 
+  mon: "n'est pas le matin"
+  answer: soir
+
+----
+
+Tout: s'accroche aux branches des arbres
+
+----
+
+Answer: balançoire

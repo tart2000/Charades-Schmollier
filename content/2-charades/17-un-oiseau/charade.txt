@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Un oiseau
+
+----
+
+Charade: 
+
+- 
+  mon: "est ce qu'on a quand on en a deux"
+  answer: Paire
+- 
+  mon: est un sport prisé des canadiens
+  answer: hockey
+
+----
+
+Tout: est un oiseau qui parle trop
+
+----
+
+Answer: Perroquet

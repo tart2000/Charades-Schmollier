@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: hhhaaar !
+
+----
+
+Charade: 
+
+- 
+  mon: est une carte à jouer
+  answer: As
+- 
+  mon: est un bandit des mers
+  answer: pirate
+- 
+  mon: fait 60 minutes
+  answer: heure
+
+----
+
+Tout: sert à faire le ménage
+
+----
+
+Answer: Aspirateur

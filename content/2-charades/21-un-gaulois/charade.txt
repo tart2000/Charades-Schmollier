@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Un gaulois
+
+----
+
+Charade: 
+
+- 
+  mon: est la plus forte des cartes
+  answer: As
+- 
+  mon: est la planète sur laquelle on habite
+  answer: Terre
+- 
+  mon: est la lettre avant Y
+  answer: X
+
+----
+
+Tout: est un petit gaulois bien connu
+
+----
+
+Answer: Astérix

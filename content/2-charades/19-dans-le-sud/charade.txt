@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Dans le sud
+
+----
+
+Charade: 
+
+- 
+  mon: est un moyen de transport
+  answer: Car
+- 
+  mon: est un bout de caca
+  answer: ca
+- 
+  mon: "est ce qu'on fait avec une cloche"
+  answer: sonne
+
+----
+
+Tout: est une ville fortifiée
+
+----
+
+Answer: Carcassonne

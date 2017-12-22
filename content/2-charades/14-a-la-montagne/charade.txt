@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: À la montagne
+
+----
+
+Charade: 
+
+- 
+  mon: est un félin
+  answer: Chat
+- 
+  mon: est aimé par mon premier
+  answer: lait
+
+----
+
+Tout: est une maison à la montagne
+
+----
+
+Answer: Chalet

@@ -1,0 +1,30 @@
+Prevnext: 
+
+----
+
+Title: Miam miam !
+
+----
+
+Charade: 
+
+- 
+  mon: "supporte les voiles d'un bateau"
+  answer: mât
+- 
+  mon: est un chiffre entre 1 et 3
+  answer: deux
+- 
+  mon: se boit au petit déjeuner
+  answer: lait
+- 
+  mon: se fait avec les lacets de chaussures
+  answer: noeud
+
+----
+
+Answer: Madeleine
+
+----
+
+Tout: est un gateau ou un prénom

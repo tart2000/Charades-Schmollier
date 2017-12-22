@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Cubique
+
+----
+
+Charade: 
+
+- 
+  mon: est le surnom de Pikachu
+  answer: Pika
+- 
+  mon: "sert à transporter de l'eau"
+  answer: seau
+
+----
+
+Tout: est un peintre très connu
+
+----
+
+Answer: Picasso

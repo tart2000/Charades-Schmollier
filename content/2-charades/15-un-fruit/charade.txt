@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Un fruit
+
+----
+
+Charade: 
+
+- 
+  mon: "ce qu'on dit quand on a peur"
+  answer: Ah !
+- 
+  mon: un fromage
+  answer: brie
+- 
+  mon: le bruit de la poule
+  answer: cot
+
+----
+
+Tout: est un fruit délicieux
+
+----
+
+Answer: Abricot

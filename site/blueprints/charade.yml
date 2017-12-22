@@ -1,0 +1,29 @@
+title: Charade
+files: false 
+pages: false 
+
+
+fields:
+  prevnext: prevnext
+  title:
+    label: Title
+    type:  text
+  charade:
+    label: Indices (mon premier...)
+    type: structure 
+    entry: >
+      {{mon}}
+    fields: 
+      mon: 
+        label: Mon premier ... (est...)
+        type: text
+      answer: 
+        label: Réponse
+        type: text
+  tout: 
+    label: Mon tout...
+    type: text
+  answer:
+    label: Answer
+    type: text 
+

@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Joyeux
+
+----
+
+Charade: 
+
+- 
+  mon: est un fruit aimé des singes
+  answer: Banane
+- 
+  mon: "est une saison entre l'automne et le printemps"
+  answer: hiver
+- 
+  mon: le mari de la biche
+  answer: cerf
+
+----
+
+Tout: Se souhaite lorsqu'on gagne un an
+
+----
+
+Answer: Bon anniversaire !

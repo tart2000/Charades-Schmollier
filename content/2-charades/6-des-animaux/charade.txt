@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Des animaux
+
+----
+
+Charade: 
+
+- 
+  mon: est un animal
+  answer: cerf
+- 
+  mon: est un animal
+  answer: paon
+
+----
+
+Tout: est un animal
+
+----
+
+Answer: Serpent

@@ -1,0 +1,24 @@
+Prevnext: 
+
+----
+
+Title: Dinosaures
+
+----
+
+Charade: 
+
+- 
+  mon: est un grand trou
+  answer: Fosse
+- 
+  mon: "est un morceau de terre entouré d'eau"
+  answer: île
+
+----
+
+Tout: est une trace des dinosaures
+
+----
+
+Answer: Fossile

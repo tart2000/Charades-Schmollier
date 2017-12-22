@@ -1,0 +1,30 @@
+Prevnext: 
+
+----
+
+Title: Attrapez les tous
+
+----
+
+Charade: 
+
+- 
+  mon: couvre le corps
+  answer: peau
+- 
+  mon: se trouve à la gare
+  answer: quai
+- 
+  mon: sert à faire des phrases
+  answer: mot
+- 
+  mon: sert à attacher deux cordes
+  answer: noeud
+
+----
+
+Tout: peut s'attraper avec son téléphone
+
+----
+
+Answer: Pokémon

@@ -1,0 +1,14 @@
+title: Charades
+pages: 
+  template: charade
+  hide: true
+files: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+  mysubpagelist:
+    label: Charades 
+    type:  subpagelist
+

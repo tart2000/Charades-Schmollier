@@ -1,0 +1,20 @@
+Title: Flotte sur l'eau
+
+----
+
+Answer: Bateau
+
+----
+
+Charade: 
+
+- 
+  mon: "n'est pas haut"
+  answer: bas
+- 
+  mon: "n'est pas tard"
+  answer: tôt
+
+----
+
+Tout: navigue sur l'eau

@@ -1,0 +1,30 @@
+Prevnext: 
+
+----
+
+Title: Beethoven
+
+----
+
+Charade: 
+
+- 
+  mon: est un fruit
+  answer: Pomme
+- 
+  mon: est un fruit
+  answer: Pomme
+- 
+  mon: est un fruit
+  answer: Pomme
+- 
+  mon: est un fruit
+  answer: Pomme
+
+----
+
+Answer: pom pom pom pom !
+
+----
+
+Tout: est le début de la 9ième symphonie de Beethoven

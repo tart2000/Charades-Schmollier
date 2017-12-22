@@ -1,0 +1,27 @@
+Prevnext: 
+
+----
+
+Title: Fleur des champs
+
+----
+
+Charade: 
+
+- 
+  mon: est un oiseau noir à queue blanche
+  answer: pie
+- 
+  mon: coule dans mon corps
+  answer: sang
+- 
+  mon: est là où on dort
+  answer: lit
+
+----
+
+Tout: est une fleur des champs
+
+----
+
+Answer: pissenlit
